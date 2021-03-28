@@ -5,7 +5,7 @@
  zarfraz@gmail.com<br>
  </h2>
  <h3 align="center">
-  Crypto/Blochain Engagments <br>
+  Crypto/Blockhain Engagments <br>
   Brief CoverLetter & C.V Repostiory
  </h3>
  
