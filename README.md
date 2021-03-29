@@ -23,8 +23,10 @@
 
 # 👋 Cover Letter
 
-> Masters degree in Science holder with an official certification in [Blockchain Consulting](https://www.youracclaim.com/badges/0bac5ecf-bca8-4b8e-8d8d-ca3d5f624491), who is also an ex startup founder with a passion for technology & Research. Primary skills include - Product Ownership, Business Analysis, Project Mangement which have been gained by participating in large scale government and private projects. Curently interested in being involved in the Blockchain space. 
-> 
+> 1. Masters degree in Science with an official certification in [Blockchain Consulting](https://www.youracclaim.com/badges/0bac5ecf-bca8-4b8e-8d8d-ca3d5f624491). 
+> 2. ex startup founder with a passion for technology & research. 
+> 3. Primary skills include - Product Ownership, Business Analysis, Project Mangement in large scale government and private projects.
+> 4. Strong leadership and communication skills.
 
 # 💼 Skills Chart
 
