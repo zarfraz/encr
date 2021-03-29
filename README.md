@@ -1,9 +1,6 @@
  <h1 align="center">
-   MOHAMED SARFRAZ AHMED
+   MOHAMED | zarfraz@gmail.com
  </h1>
- <h2 align="center">
- zarfraz@gmail.com<br>
- </h2>
  <h3 align="center">
   Crypto/Blockhain Projects <br>
   Brief CoverLetter & C.V Repo
