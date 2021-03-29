@@ -14,10 +14,10 @@
 
 # TOC 
 
--[👋 Cover Letter](#-Cover-Letter)
--[💼 Skills Chart](#Skills-Chart)
--[👀 Professional Portfolio](#-Professional-Portfolio)
--[☕ BuyMeACryptoCoffee](#-BuyMeACryptoCoffee)
+[👋 Cover Letter](#-Cover-Letter)
+[💼 Skills Chart](#Skills-Chart)
+[👀 Professional Portfolio](#-Professional-Portfolio)
+[☕ BuyMeACryptoCoffee](#-BuyMeACryptoCoffee)
 
 ----
 
